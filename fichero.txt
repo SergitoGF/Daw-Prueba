@@ -4,3 +4,5 @@ Estamos probando a añadir cambios al fichero
 Probamos a añadir más cambios en la rama main
 
 Nuevos cambios en la rama practica
+Más cambios desde el main pero sin commit
+Otro desde practica sin commit

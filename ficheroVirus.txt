@@ -4,4 +4,10 @@ varios
 Nueva modificación desde gitHub
 
 
+<<<<<<< HEAD
 HEMOS AÑADIDO UNA RAMA DONDE DEBEMOS COMPROBA
+=======
+HEMOS AÑADIDO UNA RAMA DONDE DEBEMOS COMPROBAR CAMBIOS NUEVOS
+
+Editamos el código desde GitHub
+>>>>>>> 06c100818ec40c1cf56805663fb76ae2006830bb
